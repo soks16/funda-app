@@ -1,0 +1,7 @@
+.slider-image {
+    width: 100%; /* Réduire la largeur à 70% de la div */
+    height: 250px; /* Hauteur fixe (ajustez selon vos besoins) */
+    object-fit: cover; /* Ajuste l'image sans déformation */
+    margin: auto; /* Centrer l'image */
+  }
+  
